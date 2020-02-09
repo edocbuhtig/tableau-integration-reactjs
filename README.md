@@ -1,5 +1,8 @@
 ## Tableau worksheet integration inside Reactjs web app
 
+## Intro
+
+This code combines ES + Javascript mixture to demo how to achieve results using both.
 
 ### Import Tableau JS API Lib 
 
