@@ -26,3 +26,7 @@ const { tableau } = window;
 ```
 https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.htm
 ```
+
+### Tutorial
+
+Read the complete [tutorial here](https://medium.com/@sunilk/adding-salesforce-tableau-published-worksheets-in-your-react-js-application-73cd4fcb0de4)
