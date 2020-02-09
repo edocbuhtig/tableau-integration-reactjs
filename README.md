@@ -1,5 +1,9 @@
 ## Tableau worksheet integration inside Reactjs web app
 
+## Screenshot
+
+![Tableau React](/screenshot/tableau-public-demo.png)
+
 ## Intro
 
 This code combines ES + Javascript mixture to demo how to achieve results using both.
