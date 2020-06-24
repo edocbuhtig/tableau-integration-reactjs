@@ -1,4 +1,4 @@
-## Tableau worksheet integration inside Reactjs web app
+## How to add Salesforce Tableau in Reactjs
 
 ## Screenshot
 
@@ -29,4 +29,4 @@ https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.h
 
 ### Tutorial
 
-Read the complete [tutorial here](https://sunilk.work/how-to-integrate-salesforce-tableau-business-intelligence-and-data-visualization-tool-in-react-js-application/)
+[How to add Salesforce Tableau in Reactjs](https://www.fullstackblog.in/how-to-add-salesforce-tableau-in-reactjs/)
