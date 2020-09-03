@@ -27,6 +27,4 @@ const { tableau } = window;
 https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.htm
 ```
 
-### Tutorial
 
-[Tableau React Integration](https://www.medium.com/@sunil.work/how-to-add-salesforce-tableau-in-reactjs/)
