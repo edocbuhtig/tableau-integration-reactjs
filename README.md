@@ -29,4 +29,4 @@ https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.h
 
 ### Tutorial
 
-[Tableau React Integration](https://www.fullstackblog.in/how-to-add-salesforce-tableau-in-reactjs/)
+[Tableau React Integration](https://www.medium.com/@sunil.work/how-to-add-salesforce-tableau-in-reactjs/)
